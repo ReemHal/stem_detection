@@ -1,0 +1,14 @@
+*.png
+*.pyc
+*.jpg
+*.npz
+*.csv
+data/
+sample*
+src/*.txt
+stem_superpixel_boundaries/
+output/
+output (copy)/
+docs/*.jpg
+docs/*.jpeg
+lib/download_images.py
